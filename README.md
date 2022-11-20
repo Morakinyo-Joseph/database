@@ -1,4 +1,3 @@
-# database
 
 <h1>Creating a database in a json file</h1>
 
